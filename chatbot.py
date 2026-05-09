@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 import streamlit as st
+import os 
 from langchain_groq import ChatGroq
 
 # load env variables
