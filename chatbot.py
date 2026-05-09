@@ -5,6 +5,9 @@ from langchain_groq import ChatGroq
 # load env variables
 load_dotenv()
 
+# Get API Key
+groq_api_key = os.getenv("gsk_VN8H3zILixZDPsOsF2NcWGdyb3FYSmhAb8OqOGWTBr9vy3SGGzhAgt")
+
 # streamlit page setup
 st.set_page_config(
     page_title="ChatBot",
