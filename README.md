@@ -118,12 +118,10 @@ This project is deployed using Streamlit Cloud.
 ---
 
 # 📸 Screenshot
+<img width="1884" height="1039" alt="image" src="https://github.com/user-attachments/assets/1e10c84d-b4ec-48ac-ae14-1b512991192e" />
 
-Add your project screenshot here.
 
-```md
-![App Screenshot](screenshot.png)
-```
+
 
 ---
 
