@@ -7,7 +7,7 @@ from langchain_groq import ChatGroq
 load_dotenv()
 
 # Get API Key
-groq_api_key = os.environ["GROQ_API_KEY"]="gsk_VN8H3zILixZDPsOsF2NcWGdyb3FYSmhAb8OqOGWTBr9vy3SGGzhAgt"
+groq_api_key = os.environ["GROQ_API_KEY"]="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"
 
 # streamlit page setup
 st.set_page_config(
