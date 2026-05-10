@@ -52,7 +52,7 @@ if user_prompt:
     messages = [
         {
             "role": "system",
-            "content": "You are a helpful assistant.your name is hamid bot "
+            "content": "You are a helpful assistant. your name is  titanic  "
         }
     ] + st.session_state.chat_history
 
