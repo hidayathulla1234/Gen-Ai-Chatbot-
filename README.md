@@ -118,7 +118,8 @@ This project is deployed using Streamlit Cloud.
 ---
 
 # 📸 Screenshot
-<img width="1884" height="1039" alt="image" src="https://github.com/user-attachments/assets/1e10c84d-b4ec-48ac-ae14-1b512991192e" />
+<img width="1914" height="917" alt="chabot" src="https://github.com/user-attachments/assets/60cce45c-f920-4420-b742-5f37d7655dc5" />
+
 
 
 
